@@ -1,6 +1,6 @@
 # matlab-polygon-drawing
 
-Drawing a rotating polygon.
+Drawing a rotating polygon in MATLAB.
 You can change the number of the sides/length/center/number of rotations.
 
 ### Output for n=3:
